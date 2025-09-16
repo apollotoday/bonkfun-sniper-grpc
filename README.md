@@ -31,7 +31,7 @@ Built for ultra-low-latency detection and automated buys/sells on **Bonk.fun** t
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/vvizardev/bonkfun-sniper-grpc.git
+git clone https://github.com/apollotoday/bonkfun-sniper-grpc.git
 cd bonkfun-sniper-grpc
 ```
 
